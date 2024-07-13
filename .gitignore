@@ -1,0 +1,7 @@
+env
+.venv
+assets/*
+.spyproject
+temp
+__pycache__
+.vscode
